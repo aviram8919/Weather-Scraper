@@ -1,2 +1,17 @@
 # Weather Scraper
-This is a API call project which forecast the weather for searched city. It provides info of temperature and wind speed of the searched place. 
+This is an API call project which forecast the weather for searched city. It provides info of temperature and wind speed of the searched place.
+
+## Table of contents
+* [General info](#general-info)
+* [Technologies](#technologies)
+* [Setup](#setup)
+
+## General info
+This project fetch the data from Openweathermap.org and by making an API call it shows the weather forecast of searched city.
+	
+## Technologies
+Project is created with:
+* API
+* PHP
+* Bootstrap
+* CSS
