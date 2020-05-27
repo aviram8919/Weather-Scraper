@@ -19,3 +19,7 @@ Project is created with:
 ## Setup
 To run this project make a new folder and download the index.php and background.jpg file and save it in new folder.
 Run the index.html file on your localhost and search the city name to know the weather condition of that city.
+
+##inspiration
+This project is inspired by complete web development tutorial by Udemy.
+
